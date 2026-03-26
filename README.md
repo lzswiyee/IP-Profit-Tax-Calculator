@@ -85,6 +85,7 @@
 
 ## Структура проекта
 
+```text
 ip-tax-calculator/
 │
 ├── README.md
@@ -149,6 +150,7 @@ ip-tax-calculator/
 
 ## Структура проекта
 
+```text
 ip-tax-calculator/
 │
 ├── README.md
