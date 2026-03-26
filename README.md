@@ -188,6 +188,8 @@ ip-tax-calculator/
 -Результат:
 -Налог: 0 руб.
 
+---
+
 ```mermaid
 flowchart TD
 A[Начало] --> B[Ввод данных]
