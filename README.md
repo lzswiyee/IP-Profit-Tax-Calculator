@@ -101,7 +101,7 @@ ip-tax-calculator/
 │
 └── docs/
 └── diagram.png
----
+```
 
 ## Возможности для расширения
 
@@ -166,7 +166,7 @@ ip-tax-calculator/
 │
 └── docs/
 └── diagram.png
----
+```
 
 ## Возможности для расширения
 
