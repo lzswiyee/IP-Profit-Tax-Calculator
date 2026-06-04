@@ -89,12 +89,13 @@ IP-Profit-Tax-Calculator/
 │
 ├── README.md
 ├── src/
-│ ├── main.py
-│ ├── input_module.py
 │ ├── calc_module.py
+│ ├── gui_module.py
+│ ├── input_module.py
+│ ├── logger.py
+│ ├── main.py
 │ ├── tax_module.py
-│ ├── utils.py
-│ └── logger.py
+│ └── utils.py
 │
 ├── tests/
 │ ├── test_calc.py
